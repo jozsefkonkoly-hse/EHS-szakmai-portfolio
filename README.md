@@ -1,50 +1,60 @@
-# Konkoly József – EHS szakmai portfólió
-> „Azon járjon az eszed állandóan, amit el akarsz érni, ne pedig amitől félsz.”
+# 🛡️ Konkoly József | Szakmai háttér
 
-![EHS](https://img.shields.io/badge/Professional-EHS%20Manager-green) ![Location](https://img.shields.io/badge/Location-Tatabánya-blue) ![Safety](https://img.shields.io/badge/Focus-Safety%20First-red)
+![HSE Tech](https://img.shields.io/badge/Focus-Digital%20Safety-blue?style=for-the-badge&logo=target)
+![Industry](https://img.shields.io/badge/Sector-Green%20Energy%20%26%20Manufacturing-green?style=for-the-badge)
+![Innovation](https://img.shields.io/badge/Tech-Paperless%20EHS-orange?style=for-the-badge)
 
-## 👤 Bemutatkozás
-EHS szakember vagyok, aki számára a munkavédelem, tűzvédelem és környezetvédelem nemcsak hivatás, hanem valódi érdeklődési terület is. Több iparágban – energetika, építőipar, akkumulátor‑ és gyártóipar – szereztem tapasztalatot, jellemzően komplex EHS rendszerek felépítésében és fejlesztésében.
+## 🚀 Digitális Transzformáció az EHS-ben
+Szakmai hitvallásom a munkavédelem, tűzvédelem és környezetvédelem digitalizálása. Olyan innovatív rendszereket építek és üzemeltetek, amelyek a 2025-ös technológiai elvárásoknak megfelelően papírmentessé és automatizálttá teszik a biztonsági folyamatokat.
 
-<img src="https://images.unsplash.com/photo-1590486803833-ffc9197170e8?q=80&w=1000&auto=format&fit=crop" width="100%" alt="HSE Professional View">
-
----
-
-## 🛠️ Szakmai fókuszterületek
-* **Egyéni védőeszköz (EVE)** rendszerek optimalizálása (Inzi Controls: ~11 M Ft / év megtakarítás)
-* **Kockázatértékelés** és munkahelyi kockázatelemzés
-* **Gépvizsgálatok**, veszélyes munkaeszközök üzembe helyezése
-* **Leesésvédelem**, állványos és tárolórendszerek felülvizsgálata
-* **Hulladékgazdálkodás** (Zero Waste szemlélet)
-* **Építési munkahelyek EHS koordinációja** (Kivitelezési tapasztalat: Samsung, Lotte, SK Battery)
-
-<img src="https://images.unsplash.com/photo-1541888946425-d81bb19480c5?q=80&w=1000&auto=format&fit=crop" width="100%" alt="Construction Safety">
+**Kiemelt digitális kompetenciák:**
+* **fiREG.hu**: Papírmentes, felhőalapú tűzvédelmi nyilvántartó rendszerek implementálása és szakmai támogatása.
+* **Smart Coordination**: Építőipari és gyártási folyamatok digitális EHS felügyelete.
+* **Adatvezérelt Biztonság**: Riporting rendszerek és digitális munkaengedély-kezelés fejlesztése.
 
 ---
 
-## 💼 Szakmai tapasztalat – Kiemelések
+## 🛠️ Technológiai & Szakmai Stack
 
-| Pozíció | Cég / Projekt | Eredmények / Tapasztalat |
+| Terület | Szakértelem | Digitális / Innovatív Fókusz |
 | :--- | :--- | :--- |
-| **EHS vezető** | Inzi Controls Hungary | Teljes rendszerépítés, ~11M Ft EVE megtakarítás |
-| **Munkavédelmi megbízott** | Oroszlányi Erőmű | Veolia Safety Award - Arany fokozat |
-| **EHS Manager** | Samsung Engineering, Lotte Aluminium, SK Battery | Kivitelezési területen végzett EHS vezetés nagyberuházásokon |
+| **Munkavédelem** | Gépvizsgálatok, Kockázatértékelés | Digitális jegyzőkönyvezés és auditálás |
+| **Tűzvédelem** | Szakvizsgázott szakértő | fiREG.hu innovatív megoldások |
+| **Management** | EHS Vezetés (Inzi, Samsung) | KPI dashboardok és riport automatizáció |
+| **Környezet** | Zero Waste szemlélet | Lítium akkumulátor hulladékgazdálkodás |
 
 ---
 
-## 🎓 Képesítések
-* 🛡️ **Munkavédelmi technikus**
-* 🔥 **Tűzvédelmi szakvizsga**
-* ⚠️ **Katasztrófavédelmi előadó**
-* 🧘 **Ergonómiai tanfolyamok** (Kézi anyagmozgatás)
+## 💼 Tapasztalati Mérföldkövek
 
-<img src="https://images.unsplash.com/photo-1581094288338-2314dddb7ecc?q=80&w=1000&auto=format&fit=crop" width="100%" alt="Industrial Inspection">
+### ⚡ **Inzi Controls Hungary** | EHS Vezető
+* **Gazdasági hatékonyság:** 11 M Ft/év megtakarítás elérése az EVE rendszerek digitális optimalizálásával.
+* **Struktúra:** Teljes EHS irányítási rendszer felépítése az alapoktól, nemzetközi környezetben.
+
+### 🏗️ **Samsung Engineering / Lotte / SK Battery** | EHS Manager
+* **Kivitelezési technológia:** Koreai nagyberuházások (akkumulátor és alumíniumipar) komplex EHS vezetése.
+* **Modern koordináció:** Magas kockázatú építési telephelyek digitális szemléletű támogatása.
+
+### 🔥 **Oroszlányi Erőmű** | Munkavédelmi Megbízott
+* **Elismerés:** **Corporate Safety Veolia Gold Award** (Aranyérem) a biztonsági rendszerek fejlesztéséért.
+* **Project:** Az erőmű újraindításának teljes körű, modern EHS koordinációja.
 
 ---
 
-## 📬 Kapcsolat
-Keress bizalommal az alábbi elérhetőségeken:
+## 🎓 Képesítések & Készségek
+* 🛡️ **Munkavédelmi Technikus**
+* 🔥 **Tűzvédelmi Szakvizsga**
+* ⚠️ **Katasztrófavédelmi Előadó**
+* 🧘 **Ergonómiai Szakértő** (Munkahelyi kialakítás & kézi anyagmozgatás)
+* 💻 **Informatikai affinitás:** Digitális EHS platformok, Kriptovaluta technológiák, MS Office szakértő.
+* 🗣️ **Nyelvismeret:** Angol és Koreai nyelvi tapasztalat.
 
+---
+
+## 📬 Elérhetőség
 * 📧 **Email:** [kj.munkavedelem@gmail.com](mailto:kj.munkavedelem@gmail.com)
-* 📍 **Helyszín:** Tatabánya, Magyarország
-* 🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jozsefkonkoly-hse/)
+* 🔗 **LinkedIn:** [linkedin.com/in/jozsefkonkoly-hse/](https://www.linkedin.com/in/jozsefkonkoly-hse/)
+* 📍 **Bázis:** Tatabánya, Magyarország
+
+---
+*„A biztonság nem csupán szabályrendszer, hanem a modern technológia és a szakmai precizitás ötvözete.”*
